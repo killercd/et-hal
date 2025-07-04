@@ -1,2 +1,3 @@
 # et-hal
-Custom payloads
+Custom payloads for red-teaming & pentesting operations
+Educational Purposes Only
